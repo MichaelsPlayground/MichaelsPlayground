@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael and welcome on my @MichaelsPlayground
-- 👀 As you my have noticed - this i a plaground where I'm going to store my actual projects.
-- Please be aware that a project may not work as it is on development.
+- 👀 As you my have noticed - this i a playground where I'm going to store my actual projects.
+- Please be aware that a project may not work as it is on development or "dead".
 - 📫 How to reach me: javacrypto@gmx.de
 
 <!---
